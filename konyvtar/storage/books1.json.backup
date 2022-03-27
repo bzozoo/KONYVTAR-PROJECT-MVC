@@ -1,0 +1,23 @@
+[
+  {
+    "author":"Harangozó Zsolt",
+    "title":"Miért nem kéne oktass PHP-t OKJ-n!",
+    "isbn":"111-11-1111-111-1",
+    "public_year":2024,
+    "language":"hu"
+  },
+  {
+    "author":"Mekk Elek",
+    "title":"Remek Elek",
+    "isbn":"222-22-2222-222-2",
+    "public_year":1925,
+    "language":"hu"
+  },
+  {
+    "author":"Zatykó Nóra",
+    "title":"Hogyan éld túl a Bláthy OKJ képzését?",
+    "isbn":"666-66-6666-666-6",
+    "public_year":2022,
+    "language":"hu"
+  }
+]
